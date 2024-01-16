@@ -1,0 +1,77 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',
+    Geneva, Verdana, sans-serif;
+    background-image: url("../imgs/p1.jpg");
+    background-size: cover;
+}
+.header {
+    height: 3em;
+    padding:2em;
+    font-size: 2em;
+    background-image: url("../imgs/matrix.jpg");
+    background-size: cover;
+    background-position: center;
+    border: solid 6px green;
+    border-radius: 30px;
+
+}
+
+.header h1 {
+    margin: 0px;
+    font-weight: 400;
+    color: black;
+    background-color: white;
+    text-align: center;
+    border-radius: 30px;
+}
+
+.header p {
+    margin: 1px;
+    color: white;
+    text-align: center;
+}
+
+.products {
+    width: 80%;
+    margin: auto;
+}
+
+.products td {
+    width: 50%;
+    padding: 2em;
+}
+
+.plan{
+    background-color: green;
+    font-size: 2.5em;
+    text-align: center;
+    padding: 20px 10px;
+    color: white;
+}
+
+.precio {
+    font-size: 2.5em;
+    background-color: white;
+    color: black;
+    border-radius: 30px;
+    padding: 0px 10px;
+    text-align: center;
+}
+
+.products img {
+    width: 100%;
+    border: solid 6px white;
+    border-radius: 50px;
+}
+
+.footer {
+    height: 3em;
+    line-height: 3em;
+    background-color: green;
+    color: white;
+    text-align: center;
+    font-weight: 900;
+    border-radius: 30px;
+}
+        
+
